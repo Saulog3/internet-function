@@ -14,7 +14,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Feliz Aniversario, Meu Amor</title>
+        <title>Feliz Aniversário Meu Amor</title>
         <meta
           name="description"
           content="Uma mensagem de feliz aniversario em formato de pagina especial."
@@ -25,18 +25,16 @@ export default function Home() {
         <section className="hero">
           <div className="heroCopy">
             <p className="eyebrow">Para a mulher da minha vida</p>
-            <h1>Feliz aniversario, meu amor.</h1>
+            <h1>Feliz aniversário, meu amor.</h1>
             <p className="lead">
-              Hoje a pagina e toda sua. Um pequeno espaco para lembrar o quanto
-              voce deixa tudo mais bonito, leve e inesquecivel.
+              Hoje a página toda sua. Um pequeno espaco para lembrar o quanto
+              voce deixa tudo melhor.
             </p>
             <div className="messageCard">
               <p>
-                Obrigado por cada sorriso, cada abraco e cada momento que faz
-                meu coracao se sentir em casa. Que seu novo ciclo venha cheio de
-                paz, saude, sonhos realizados e muito amor.
+                Obrigado por tudo e cada sorriso, cada abraçoo e cada momento que passamos juntos. O maior privilégio que eu tive foi poder passar tantos aniversários com você, e que Deus nos permita passarmos muitos mais. O maior amor se prova sempre nos momentos mais dificeis, e tenho certeza de que junto podemos podemos superar qualquer dificuldade.
               </p>
-              <p>Eu te admiro, te escolho e celebro sua vida hoje e sempre.</p>
+              <p>Eu te admiro, eu te amos, eu te escolho hoje e sempre.</p>
             </div>
           </div>
 
@@ -47,7 +45,7 @@ export default function Home() {
 
         <section className="gallerySection">
           <div className="sectionHeader">
-            <p className="eyebrow">Nossas lembrancas</p>
+            <p className="eyebrow">Nossas lembranças</p>
             <h2>Momentos que merecem ficar para sempre.</h2>
           </div>
 
@@ -64,7 +62,7 @@ export default function Home() {
         </section>
 
         <section className="footerNote">
-          <p>Com amor, para lembrar voce do quanto e amada em cada detalhe.</p>
+          <p>Com amor, para lembrar você do quanto eu te amo.</p>
         </section>
       </main>
 
